@@ -1,1 +1,3 @@
 # Hello-World
+
+My name is Hadii and i'm new here and starting to learn C# CSS Javascript ....
